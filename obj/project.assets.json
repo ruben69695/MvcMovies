@@ -10593,16 +10593,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ruben/git/MvcMovie/MvcMovie.csproj",
+      "projectUniqueName": "/home/ruben/git/MvcMovies/MvcMovies/MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "/home/ruben/git/MvcMovie/MvcMovie.csproj",
-      "outputPath": "/home/ruben/git/MvcMovie/obj/",
+      "projectPath": "/home/ruben/git/MvcMovies/MvcMovies/MvcMovie.csproj",
+      "outputPath": "/home/ruben/git/MvcMovies/MvcMovies/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/MvcMovie.dll": "/home/ruben/git/MvcMovie/bin/placeholder/netcoreapp1.1/MvcMovie.dll"
+        "lib/netcoreapp1.1/MvcMovie.dll": "/home/ruben/git/MvcMovies/MvcMovies/bin/placeholder/netcoreapp1.1/MvcMovie.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {
