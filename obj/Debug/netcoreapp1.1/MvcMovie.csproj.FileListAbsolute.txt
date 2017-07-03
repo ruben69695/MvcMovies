@@ -6,6 +6,7 @@
 /home/ruben/git/MvcMovie/obj/Debug/netcoreapp1.1/MvcMovie.AssemblyInfo.cs
 /home/ruben/git/MvcMovie/obj/Debug/netcoreapp1.1/MvcMovie.dll
 /home/ruben/git/MvcMovie/obj/Debug/netcoreapp1.1/MvcMovie.pdb
+<<<<<<< HEAD
 /home/ruben/git/MvcMovies/MvcMovies/bin/Debug/netcoreapp1.1/MvcMovie.deps.json
 /home/ruben/git/MvcMovies/MvcMovies/bin/Debug/netcoreapp1.1/MvcMovie.runtimeconfig.json
 /home/ruben/git/MvcMovies/MvcMovies/bin/Debug/netcoreapp1.1/MvcMovie.runtimeconfig.dev.json
@@ -14,3 +15,13 @@
 /home/ruben/git/MvcMovies/MvcMovies/obj/Debug/netcoreapp1.1/MvcMovie.AssemblyInfo.cs
 /home/ruben/git/MvcMovies/MvcMovies/obj/Debug/netcoreapp1.1/MvcMovie.dll
 /home/ruben/git/MvcMovies/MvcMovies/obj/Debug/netcoreapp1.1/MvcMovie.pdb
+=======
+C:\Users\Ruben Arrebola\Desktop\GitHub\MvcMovies\bin\Debug\netcoreapp1.1\MvcMovie.deps.json
+C:\Users\Ruben Arrebola\Desktop\GitHub\MvcMovies\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.json
+C:\Users\Ruben Arrebola\Desktop\GitHub\MvcMovies\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.dev.json
+C:\Users\Ruben Arrebola\Desktop\GitHub\MvcMovies\bin\Debug\netcoreapp1.1\MvcMovie.dll
+C:\Users\Ruben Arrebola\Desktop\GitHub\MvcMovies\bin\Debug\netcoreapp1.1\MvcMovie.pdb
+C:\Users\Ruben Arrebola\Desktop\GitHub\MvcMovies\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfo.cs
+C:\Users\Ruben Arrebola\Desktop\GitHub\MvcMovies\obj\Debug\netcoreapp1.1\MvcMovie.dll
+C:\Users\Ruben Arrebola\Desktop\GitHub\MvcMovies\obj\Debug\netcoreapp1.1\MvcMovie.pdb
+>>>>>>> master
