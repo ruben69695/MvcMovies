@@ -10593,16 +10593,27 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "/home/ruben/git/MvcMovies/MvcMovies/MvcMovie.csproj",
+      "projectName": "MvcMovie",
+      "projectPath": "/home/ruben/git/MvcMovies/MvcMovies/MvcMovie.csproj",
+      "outputPath": "/home/ruben/git/MvcMovies/MvcMovies/obj/",
+=======
       "projectUniqueName": "C:\\Users\\Ruben Arrebola\\Desktop\\GitHub\\MvcMovies\\MvcMovie.csproj",
       "projectName": "MvcMovie",
       "projectPath": "C:\\Users\\Ruben Arrebola\\Desktop\\GitHub\\MvcMovies\\MvcMovie.csproj",
       "outputPath": "C:\\Users\\Ruben Arrebola\\Desktop\\GitHub\\MvcMovies\\obj\\",
+>>>>>>> master
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
+<<<<<<< HEAD
+        "lib/netcoreapp1.1/MvcMovie.dll": "/home/ruben/git/MvcMovies/MvcMovies/bin/placeholder/netcoreapp1.1/MvcMovie.dll"
+=======
         "lib/netcoreapp1.1/MvcMovie.dll": "C:\\Users\\Ruben Arrebola\\Desktop\\GitHub\\MvcMovies\\bin\\placeholder\\netcoreapp1.1\\MvcMovie.dll"
+>>>>>>> master
       },
       "frameworks": {
         "netcoreapp1.1": {
